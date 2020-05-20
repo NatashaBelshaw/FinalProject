@@ -18,7 +18,7 @@ Score, title page, and game over font: “04b_30”
 https://www.dafont.com/bitmap.php
 Pause and title page font: “Mermaid”
 https://www.dafont.com/theme.php?cat=502
-Videos I used to make the game:
+Videos (not including those from class) that I used to make the game:
 How to pause the game:
 https://www.youtube.com/watch?v=JivuXdrIHK0
 How to make start menu:
